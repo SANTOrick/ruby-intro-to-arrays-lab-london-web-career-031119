@@ -8,14 +8,14 @@ def array_with_two_elements
   return arr
 end
 
-def first_element
+def first_element(1)
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   return taylor_swift.first
 end
 
-def third_element
+def third_element(3)
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  return taylor_swift.second
+  return taylor_swift.third
 end
 
 def last_element
